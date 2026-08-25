@@ -7,6 +7,10 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38BDF8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![PWA Ready](https://img.shields.io/badge/PWA-Supported-006C49?style=for-the-badge&logo=pwa)](https://nusantara-alert-nine.vercel.app/)
 
+<p align="center">
+  <img src="./public/cover.jpg" alt="NusantaraAlert Dashboard Interface" width="100%" />
+</p>
+
 > **NusantaraAlert** adalah platform publik terpadu pemantauan siaga bencana geofisika dan cuaca waktu-nyata di Indonesia. Terintegrasi langsung dengan API resmi **BMKG (TEWS)** dan **Open Data Meteorologi**, platform ini menyajikan peta episentrum interaktif, analisis jalur sesar aktif, prediksi cuaca presisi kota/kabupaten, asisten AI siaga bencana *"Si Alerta"*, serta nomor darurat panggilan langsung.
 
 🌐 **Demo Website Live**: [https://nusantara-alert-nine.vercel.app/](https://nusantara-alert-nine.vercel.app/)
