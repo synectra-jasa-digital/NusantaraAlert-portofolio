@@ -21,3 +21,5 @@
   <li><strong>API &amp; Data Feeds:</strong> BMKG TEWS API (autogempa, gempaterkini, gempadirasakan) &amp; Open-Meteo Weather API</li>
   <li><strong>PWA &amp; Offline Capability:</strong> Service Worker Custom &amp; Web App Manifest</li>
 </ul>
+
+<p><em>Diperbarui otomatis via push test.</em></p>
